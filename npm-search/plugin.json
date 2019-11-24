@@ -1,0 +1,15 @@
+{
+  "pluginName": "npm 模块搜索",
+  "description": "在 npm 仓库中搜索模块",
+  "version": "0.0.2",
+  "preload": "preload.js",
+  "logo": "icon.png",
+  "author": "Erioifpud",
+  "features": [
+    {
+      "code": "default",
+      "explain": "Search for npm packages...",
+      "cmds": ["npm"]
+    }
+  ]
+}
