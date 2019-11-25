@@ -1,0 +1,15 @@
+{
+  "pluginName": "Can I use 查询",
+  "description": "查询前端特性兼容性",
+  "version": "0.0.1",
+  "preload": "preload.js",
+  "logo": "icon.png",
+  "author": "Erioifpud",
+  "features": [
+    {
+      "code": "default",
+      "explain": "前端特性兼容性查询",
+      "cmds": ["can", "caniuse"]
+    }
+  ]
+}
